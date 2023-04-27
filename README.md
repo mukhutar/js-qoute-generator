@@ -1,0 +1,1 @@
+# js-qoute-generator
